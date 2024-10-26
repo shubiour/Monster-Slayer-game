@@ -1,2 +1,2 @@
 # Monster-Slayer-game
-It a basic code to brush up some core context of VueJs
+It a basic code to brush up some core context of VueJs Life cycle
